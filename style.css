@@ -1,0 +1,34 @@
+table{
+  border: 4px solid black; 
+  margin-left: 80px;
+}
+
+td{
+  text-align: right;
+  vertical-align: bottom;
+  border: 3px solid black;
+  padding: 20px;
+  width: 100px;
+}
+ 
+#num1,#num5,#num8,#num10,#num14{
+  background-color: black;
+}
+  #num2,#num16{
+    background-color: pink;
+}
+#num6,#num7,#num19{
+ background-color: yellow;
+}
+#num4,#num9,#num12,#num18{
+  background-color: blue;
+}
+#num11,#num13,#num17,#num20{
+  background-color: red;
+}
+#num21,#num15{
+  background-color: green;
+}
+#num3{
+  background-color: grey;
+}
